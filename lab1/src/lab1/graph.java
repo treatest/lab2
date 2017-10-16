@@ -1,5 +1,5 @@
 package lab1;
-
+opq
 /*
 
 public class graph {

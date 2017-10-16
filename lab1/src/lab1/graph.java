@@ -1,7 +1,4 @@
 package lab1;
-ssa
-/*
-
 public class graph {
 	String[] data;
 	int edgeNumber;

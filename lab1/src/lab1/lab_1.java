@@ -1,5 +1,7 @@
+
 package lab1;
-fff
+package sss;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;

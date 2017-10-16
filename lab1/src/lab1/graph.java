@@ -5,7 +5,7 @@ package lab1;
 public class graph {
 	String[] data;
 	int edgeNumber;
-	int vertexNumber;
+	int vertexNumbd;
 	int[] next;
 	int[] flag;
 	int[][] map;
